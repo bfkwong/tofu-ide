@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tofu-ide/static/css/main.dc0a14bb.chunk.css",
+    "main.js": "/tofu-ide/static/js/main.aaeee7d6.chunk.js",
+    "main.js.map": "/tofu-ide/static/js/main.aaeee7d6.chunk.js.map",
+    "runtime-main.js": "/tofu-ide/static/js/runtime-main.e06f1408.js",
+    "runtime-main.js.map": "/tofu-ide/static/js/runtime-main.e06f1408.js.map",
+    "static/css/2.2a86faee.chunk.css": "/tofu-ide/static/css/2.2a86faee.chunk.css",
+    "static/js/2.0ea5af79.chunk.js": "/tofu-ide/static/js/2.0ea5af79.chunk.js",
+    "static/js/2.0ea5af79.chunk.js.map": "/tofu-ide/static/js/2.0ea5af79.chunk.js.map",
+    "index.html": "/tofu-ide/index.html",
+    "precache-manifest.1a24e867f78c32ca8b425ebdbd71bf39.js": "/tofu-ide/precache-manifest.1a24e867f78c32ca8b425ebdbd71bf39.js",
+    "service-worker.js": "/tofu-ide/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/tofu-ide/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.dc0a14bb.chunk.css.map": "/tofu-ide/static/css/main.dc0a14bb.chunk.css.map",
+    "static/js/2.0ea5af79.chunk.js.LICENSE.txt": "/tofu-ide/static/js/2.0ea5af79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e06f1408.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.0ea5af79.chunk.js",
+    "static/css/main.dc0a14bb.chunk.css",
+    "static/js/main.aaeee7d6.chunk.js"
+  ]
+}
