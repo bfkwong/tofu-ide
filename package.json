@@ -11,7 +11,7 @@
     "react-bootstrap": "^1.3.0",
     "react-dom": "^16.14.0",
     "react-scripts": "3.4.3",
-    "tofulang": "^1.0.1"
+    "tofulang": "^1.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
