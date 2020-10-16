@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b25510abab22647c006a9aa8b05d3c1",
+    "revision": "11dfdb38e3590e5524fba354cecaa786",
     "url": "/tofu-ide/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tofu-ide/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "65e8d716ead6547646ed",
+    "revision": "6688317518c29e1ebc4f",
     "url": "/tofu-ide/static/css/main.dc0a14bb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tofu-ide/static/js/2.0ea5af79.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "65e8d716ead6547646ed",
-    "url": "/tofu-ide/static/js/main.aaeee7d6.chunk.js"
+    "revision": "6688317518c29e1ebc4f",
+    "url": "/tofu-ide/static/js/main.33833b15.chunk.js"
   },
   {
     "revision": "9740e02048a025491eaa",

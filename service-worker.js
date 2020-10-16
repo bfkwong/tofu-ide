@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tofu-ide/precache-manifest.1a24e867f78c32ca8b425ebdbd71bf39.js"
+  "/tofu-ide/precache-manifest.d856c3dc2e7136961f3bd2b6017eefe8.js"
 );
 
 self.addEventListener('message', (event) => {
