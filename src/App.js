@@ -21,6 +21,7 @@ function App() {
           } catch (err) {
             setOutput([err.message]);
             setError(true);
+            console.log(err);
           }
         }}
       >
@@ -52,7 +53,7 @@ function App() {
       </Form>
       <div style={{textAlign: "left", marginTop: "20px", marginRight: "30px", flexGrow: "1"}}>
           <h5>Output</h5>
-          <div style={{fontFamily:"Anonymous Pro", marginTop: "10px", color: error ? 'red' : 'black'}}>{output.map((output, i) => <span key={i}>{output}<br></br></span>)}</div>
+          <div style={{fontFamily:"Anonymous Pro", marginTop: "10px", color: error ? 'red' : 'black'}}>{output.map((output, i) => <span key={i}>{output === undefined ? "undefined" : output}<br></br></span>)}</div>
       </div>
     </div>
   );
